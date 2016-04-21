@@ -1,2 +1,5 @@
 **/core
 **/Release
+**/.cproject
+**/.project
+**/.settings
